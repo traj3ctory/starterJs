@@ -1,0 +1,2 @@
+# starterJs
+Random JS functions
